@@ -21,7 +21,7 @@ TBD
 
 The task force operates as an open, member-driven working group. We meet **bi-weekly** (TBD) via video call and collaborate asynchronously through this GitHub repository.
 
-- Meeting agendas and notes will be published in the [`/meetings`](./meetings/) folder
+- Meeting agendas and notes will be published in the [`/meetings`](https://github.com/International-Data-Spaces-Association/Task-Force-AI-and-Data-Spaces/tree/main/Meeting-Minutes) folder
 - Open questions and decisions will be tracked as [GitHub Issues](../../issues)
 - All outputs are developed transparently and versioned here
 
