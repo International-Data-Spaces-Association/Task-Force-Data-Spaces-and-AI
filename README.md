@@ -1,65 +1,81 @@
-# IDSA Task Force: Data Spaces & AI 
+# IDSA Task Force: Data Spaces and AI
 
-To join in the Task Force mailing group, please [fill in this form:](https://forms.office.com/e/Dfd5JCyw4h)
-Please note that this task force is for **IDSA members-only.** To become a member you can [visit this page](https://internationaldataspaces.org/we/become-a-member/).
+To join the Task Force mailing group, please [fill in this form](https://forms.office.com/e/Dfd5JCyw4h).
+Please note that this Task Force is for **IDSA members only.** To become a member you can [visit this page](https://internationaldataspaces.org/we/become-a-member/).
+
+> **Status (July 2026):** The Task Force has published its first output, the position paper *Data Spaces and AI: Trustworthy Agentic Participation in Data Spaces*. Work is paused over the summer. The Task Force reconvenes in **September 2026** to review the [Backlog](Backlog.md) and scope the next outputs.
 
 ---
 
 ## Overview
 
-Artificial Intelligence (AI) is rapidly becoming one of the most significant forces shaping how data is consumed, processed, and shared. As AI adoption accelerates, IDSA members have raised a growing demand for **guidance on the interplay between data spaces and AI**. This Task force builds on the previous work from the WG Architecture and [Rulebook](https://docs.internationaldataspaces.org/ids-knowledgebase/idsa-rulebook/idsa-rulebook/ai-agents-and-data-spaces) on this field. 
-
+Artificial Intelligence (AI) is rapidly becoming one of the most significant forces shaping how data is consumed, processed and shared. As AI adoption accelerates, IDSA members have raised a growing demand for **guidance on the interplay between data spaces and AI**. This Task Force builds on earlier work from the Working Group Architecture and the [IDSA Rulebook](https://docs.internationaldataspaces.org/ids-knowledgebase/idsa-rulebook/idsa-rulebook/ai-agents-and-data-spaces) in this field.
 
 ---
 
 ## Mission
-TBD
+
+The Task Force examines how existing data space standards and technologies apply in the context of AI, rather than defining new protocols or architectures. It documents how the IDS Reference Architecture Model (IDS-RAM), the IDSA Rulebook and the Dataspace Protocol (DSP) support trustworthy, sovereign data sharing for AI and identifies where extensions or refinements are genuinely needed. It communicates the "better together" relationship between data spaces and AI to the IDSA community and to audiences new to data spaces.
+
+<!-- Working mission based on the agreed scope. Align with the Board-endorsed wording once it is available. -->
+
+---
+
+## Outputs
+
+**Position paper (first outcome, June 2026)**
+
+*Data Spaces and AI: Trustworthy Agentic Participation in Data Spaces*
+
+The paper leads with the opportunity. It sets out how data spaces provide the governance, trust, traceability and compensation that make AI participation trustworthy. It also shows how the Dataspace Protocol lets an AI agent participate in a data space through a Connector without new protocol definitions. New questions raised by autonomous agents (identity, liability and decision boundaries) are flagged as directions for future work.
+
+**Published link to be added.** <!-- Replace this line with the live link, e.g. [Read the position paper](https://internationaldataspaces.org/...) -->
+
+Further candidate outcomes are tracked in the [Backlog](Backlog.md).
 
 ---
 
 ## Working Mode
 
-The task force operates as an open, member-driven working group. We meet **bi-weekly** (TBD) via video call and collaborate asynchronously through this GitHub repository.
+The Task Force operates as an open, member-driven working group. During active phases it meets **bi-weekly** via video call and collaborates asynchronously through this GitHub repository.
 
-- Meeting agendas and notes will be published in the [`/meetings`](https://github.com/International-Data-Spaces-Association/Task-Force-AI-and-Data-Spaces/tree/main/Meeting-Minutes) folder
-- Open questions and decisions will be tracked as [GitHub Issues](../../issues)
+- Meeting agendas and notes are published in the [Meeting-Minutes](Meeting-Minutes) folder
+- Candidate outcomes and open topics are tracked in the [Backlog](Backlog.md)
+- Questions and proposals can be raised as [GitHub Issues](../../issues)
 - All outputs are developed transparently and versioned here
 
-To get involved, see [How to Contribute](#how-to-contribute) below.
+To get involved, see [How to Contribute](CONTRIBUTING.md).
 
 ---
 
 ## Timeline & Deliverables
 
-The task force starts in April targets a **3-month working period**, resulting in various deliverables contributing to existing IDSA assets and position paper(s) on AI and Data Spaces.
+The Task Force began in April 2026 with a **3-month working period**, producing deliverables that contribute to existing IDSA assets and one or more position papers on Data Spaces and AI. It reconvenes in September to review the backlog and scope further work.
 
 | Phase | Timeframe | Focus | Output |
 |-------|-----------|-------|--------|
-| **1 — Scoping** | April | Align on scope, use cases and key questions | (TBD) |
-| **2 — Development** | May | Develop content across topic areas |  (TBD) |
-| **3 — Review & Publication** | mid-June | Community review and consolidation | Position/Impact paper v1.0 (TBD) |
-| **4 — Reconvention and Review of Backlog** | September | Review of Backlog Items, Evaluation of the Feedback Collected | (TBD) |
+| **1 · Scoping** | April 2026 | Align on scope, use cases and key questions | Scope and backlog agreed |
+| **2 · Development** | May 2026 | Develop content across topic areas | Draft position paper |
+| **3 · Review & Publication** | June 2026 | Community review and consolidation | Position paper published |
+| **4 · Reconvene & Review Backlog** | September 2026 | Review backlog items, evaluate feedback, scope next outputs | Upcoming |
 
 ---
 
 ### Get in Touch
 
-The easiest way to get involved is to [**fill in this form**](https://forms.office.com/e/Dfd5JCyw4h)
+The easiest way to get involved is to [**fill in this form**](https://forms.office.com/e/Dfd5JCyw4h).
 
-We welcome participation from IDSA members, data space implementers, AI practitioners, and anyone with a stake in trusted data sharing.
+We welcome participation from IDSA members, data space implementers, AI practitioners and anyone with a stake in trusted data sharing.
 
 ---
 
-## Task Force Members (Participating organisations)
+## Task Force Members (participating organizations)
+
 1001 Lakes, BII Group, Eldorado, Fraunhofer IOSB, Fraunhofer ISST, FS Software, Gaia-X, GMV, Huawei, Microsoft, msg Group, Mulan IT Solutions, NEC, NIIS, NTT DATA, OA Book Usage, SICK AG, Sphin-X, TNO, University of Tokyo, VTT
 
 ---
 
 ## License
 
-This work is published under [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE).  
+This work is published under [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE.md).
 You are free to share and adapt the material, provided appropriate credit is given.
-
----
-
-*International Data Spaces Association [internationaldataspaces.org](https://internationaldataspaces.org)*
