@@ -3,7 +3,7 @@
 To join the Task Force mailing group, please [fill in this form](https://forms.office.com/e/Dfd5JCyw4h).
 Please note that this Task Force is for **IDSA members only.** To become a member you can [visit this page](https://internationaldataspaces.org/we/become-a-member/).
 
-> **Status (October 2026):** The Task Force published its first output, the position paper *Data Spaces and AI: Trustworthy Agentic Participation in Data Spaces*, in July 2026 and reconvened in September 2026. The [Backlog](Backlog.MD) is now organized in four pillars, each run as an interest group. A member survey and a questionnaire on the pillars are in preparation, and an international testbed continues in parallel.
+> **Status (November 2026):** The Task Force published its first output, the position paper *Data Spaces and AI: Trustworthy Agentic Participation in Data Spaces*, in July 2026 and reconvened in September 2026. The [Backlog](Backlog.MD) is now organized in four pillars, each run as an interest group. A pillar questionnaire (deadline December 2, 2026) turns the pillars into concrete tasks with leads, and an international testbed continues in parallel.
 
 ---
 
@@ -39,12 +39,12 @@ Since September 2026 the next outputs are organized in four pillars, each run as
 
 | Pillar | Focus |
 |--------|-------|
-| **1 · Agentic governance and trust** | Agent identity, policies, audit and AI regulation |
+| **1 · Agent governance and trust** | Agent identity, policies, audit and AI regulation |
 | **2 · AI-ready technology and architecture** | Connecting AI agents to data spaces, semantics and architecture |
 | **3 · Use cases, value and outreach** | Real cases that show the value of data spaces for AI |
-| **4 · Testbed use cases and demonstrations** | Use cases and requirements members want to test and demonstrate |
+| **4 · Testbed use cases and demos** | Use cases and requirements members want to test and demonstrate |
 
-Legal and organizational aspects (such as the EU AI Act and diverging regional rules for agents acting across data spaces) are covered within Pillar 1 or as a fifth pillar. Details, first outputs and the related outcomes are in the [Backlog](Backlog.MD).
+Legal and organizational aspects (such as the EU AI Act and diverging regional rules for agents acting across data spaces) are covered within Pillar 1 or as a fifth pillar. Pillars 3 and 4 may be merged once concrete tasks are identified, and standardization is being considered as an additional topic. Details, first outputs and the related outcomes are in the [Backlog](Backlog.MD).
 
 ---
 
@@ -86,7 +86,7 @@ We welcome participation from IDSA members, data space implementers, AI practiti
 
 ## Task Force Members (participating organizations)
 
-1001 Lakes, Aruba, BII Group, Centre for Research and Technology Hellas (CERTH), China Future Internet Engineering Center (CFIEC), Deutsche Telekom, Eldorado, Fraunhofer IOSB, Fraunhofer ISST, FS Software, Gaia-X, GMV, Huawei, Microsoft, msg Group, Mulan IT Solutions, NEC, NIIS, NTT DATA, NTT DOCOMO BUSINESS, OA Book Usage, Orbiter, SICK AG, Sphin-X, TNO, University of Tokyo, VTT
+1001 Lakes, Aruba, Athena Research Center, BII Group, Capgemini, Centre for Research and Technology Hellas (CERTH), China Future Internet Engineering Center (CFIEC), Deutsche Telekom, Digital Catapult, Eldorado, Fraunhofer IOSB, Fraunhofer ISST, FS Software, Gaia-X, GMV, Huawei, Microsoft, Mobility Data Space, msg Group, Mulan IT Solutions, NEC, NIIS, NTT DATA, NTT DOCOMO BUSINESS, OA Book Usage, Orbiter, SICK AG, Sphin-X, TNO, University of Tokyo, VTT
 
 ---
 
