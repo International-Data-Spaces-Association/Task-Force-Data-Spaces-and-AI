@@ -1,18 +1,20 @@
 # Backlog: Data Spaces and AI
 
-> **Status (October 2026):** The position paper *Data Spaces and AI: Trustworthy Agentic Participation in Data Spaces* (Version 1.0, July 2026) is published. Since September 2026 the outcomes below are grouped into four pillars, each run as an interest group. Outcome numbers stay unchanged so that earlier references remain valid.
+> **Status (November 2026):** The position paper *Data Spaces and AI: Trustworthy Agentic Participation in Data Spaces* (Version 1.0, July 2026) is published. Since September 2026 the outcomes below are grouped into four pillars, each run as an interest group. Outcome numbers stay unchanged so that earlier references remain valid.
 
 ## Pillars
 
 | Pillar | Focus | First output | Outcomes |
 |---|---|---|---|
-| 1. Agentic governance and trust | Agent identity, policies, audit and AI regulation | Short note on agent governance, aligned with the Gaia-X compliance work | 3, 4, 7 |
+| 1. Agent governance and trust | Agent identity, policies, audit and AI regulation | Short note on agent governance, aligned with the Gaia-X compliance work | 3, 4, 7 |
 | 2. AI-ready technology and architecture | Connecting AI agents to data spaces, semantics and architecture | Developer guidance on the Model Context Protocol (MCP) and the Dataspace Protocol (DSP); agentic AI input to the Data Spaces Support Centre (DSSC) Blueprint | 1, 2, 5, 6, 8 |
 | 3. Use cases, value and outreach | Real cases that show the value of data spaces for AI | Use case catalog (possibly via the Data Spaces Radar) and a one-page value case | 5, 9 |
-| 4. Testbed use cases and demonstrations | Use cases and requirements members want to test and demonstrate | 3 to 5 candidate use cases with requirements | 10 |
+| 4. Testbed use cases and demos | Use cases and requirements members want to test and demonstrate | 3 to 5 candidate use cases with requirements | 10 |
 
 - **Legal and organizational aspects** (EU AI Act, Data Act, General Data Protection Regulation (GDPR), diverging regional rules for agents acting across data spaces) are covered within Pillar 1 or as a fifth pillar. This is still open.
-- **Expanded pillar descriptions** and a questionnaire on the pillars are in preparation. They define tasks and a definition of done for each interest group.
+- **Pillar questionnaire** (sent November 20, 2026, deadline December 2): collects the tasks to start with, own task proposals with a definition of done and volunteers to lead, per pillar. The results define the first tasks and leads of each interest group.
+- **Pillars 3 and 4** are closely intertwined and may be merged once concrete tasks are identified.
+- **Standardization** (raised on November 20, 2026): how the interplay between AI and data spaces affects standardization is not yet covered by a pillar. Any work builds on top of the DSP, the Decentralized Claims Protocol (DCP) and the existing architecture without changing them. Ideas are collected through the questionnaire.
 - **A member survey** on activities, needs, concerns and expectations, including expectations for the testbed, runs across all pillars.
 - **The testbed** continues in parallel as an interest group with parties from Europe and Asia.
 
